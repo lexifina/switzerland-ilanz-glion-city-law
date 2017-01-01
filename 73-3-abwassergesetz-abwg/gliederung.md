@@ -11,5 +11,5 @@
 ### 2.2 Private Anlagen
 ## IV. Rechtsmittel
 ## V. Übergangsbestimmungen
-## VI. Vollzugs- und Schlussbestimmungen
+## VI. Vollzugs-, Straf- und Schlussbestimmungen
 ## A. Anhang zum Abwassergesetz

@@ -1,0 +1,4 @@
+# Art. 4bis Schliessung und Stilllegung von Anschlussleitungen
+1 Anschlussleitungen werden auf Antrag des Eigentümers der Liegenschaft geschlossen oder stillgelegt.
+2 Die Gemeinde ordnet eine Schliessung der Anschlussleitung an, wenn mindestens 12 Monate kein Wasser bezogen wurde, das Stillwasser in der Anschlussleitung mit grösster Wahrscheinlichkeit die Wasserqualität des Wassers in den öffentlichen Wasserversorgungsanlagen beeinträchtigt und voraussichtlich über weitere 12 Monate kein Wasser gebraucht wird.
+3 Die Gemeinde ordnet eine Stilllegung der Anschlussleitung an, wenn mindestens 3 Jahre kein Wasser bezogen wurde, das Stillwasser in der Anschlussleitung trotz Schliessung gemäss Abs. 2 mit an Sicherheit grenzender Wahrscheinlichkeit die Wasserqualität des Wassers in den öffentlichen Wasserversorgungsanlagen beeinträchtigt und voraussichtlich über weitere 3 Jahre kein Wasser gebraucht wird.

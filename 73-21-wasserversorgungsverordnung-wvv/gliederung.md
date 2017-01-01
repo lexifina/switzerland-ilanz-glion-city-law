@@ -1,4 +1,4 @@
 ## I. Zuständigkeiten
 ## II. Qualitätssicherung
 ## III. Gebührenansätze
-## IV. Schlussbestimmungen
+## IV. Schluss- und Übergangsbestimmungen
