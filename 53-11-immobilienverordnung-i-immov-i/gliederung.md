@@ -1,4 +1,5 @@
 ## I. Allgemeine Bestimmungen
-## II. Turnhallen
-## III. Benützungsgebühren
-## IV. Schluss- und Übergangsbestimmungen
+## II. Benutzungsbestimmungen
+## III. Turnhallen
+## IV. Benützungsgebühren
+## V. Schluss- und Übergangsbestimmungen

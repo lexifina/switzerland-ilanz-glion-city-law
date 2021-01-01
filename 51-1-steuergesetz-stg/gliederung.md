@@ -3,7 +3,7 @@
 ### 1. Einkommens- und Vermögenssteuern
 ### 2. Handänderungssteuer
 ### 3. Liegenschaftssteuer
-### 4. Erbanfall- und Schenkungssteuer
+### 4. Erbschafts- und Schenkungssteuer
 ### 5. Hundesteuer
 ## III. Formelles Recht
 ### 6. Behörden
