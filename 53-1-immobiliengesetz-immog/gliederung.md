@@ -1,3 +1,3 @@
 ## I. Allgemeine Bestimmungen
-## II. Benützungsgebühren
+## II. Vergaben
 ## III. Schluss- und Übergangsbestimmungen
