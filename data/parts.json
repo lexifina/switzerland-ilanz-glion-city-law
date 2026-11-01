@@ -1,0 +1,82 @@
+{
+ "parts": {
+  "10-verfassung.json": {
+   "acts": [
+    "11-1-gemeindeverfassung"
+   ],
+   "sha256": "0fdbc0dd589c01135142b2d48d1b9b732c3bb7c7b7a997204bd09d7655ab230b"
+  },
+  "40-verordnungen-1.json": {
+   "acts": [
+    "12-1-amtssprachengesetz-asg",
+    "13-1-parlamentsgesetz-parlg",
+    "13-11-parlamentsordnung-parlo",
+    "13-2-organisationsgesetz-ogg",
+    "13-21-organisationsverordnung",
+    "13-22-compliance-verordnung-cv",
+    "13-23-bibliotheksverordnung-bibliov",
+    "13-31-verordnung-jugendkommission-jukov",
+    "14-1-entschadigungsgesetz-entg",
+    "15-1-einburgerungsgesetz-einbg",
+    "21-1-personalgesetz-persg",
+    "21-12-arbeitszeitverordnung-azv",
+    "32-12-wohnkostenverordnung-wkv",
+    "33-1-bestattungsgesetz-bestg",
+    "33-11-bestattungsverordnung-bestv",
+    "41-1-polizeigesetz-pg",
+    "41-12-ordnungsbussenverordnung-obv",
+    "42-1-feuerwehrgesetz-fwg",
+    "42-11-feuerwehrverordnung-fwv",
+    "43-1-bevolkerungsschutzgesetz-bsg",
+    "43-11-bevolkerungsschutzverordnung-bevsv",
+    "51-1-steuergesetz-stg",
+    "52-1-gebuhrengesetz-gebg",
+    "52-11-gebuhrentarifverordnung-gebv",
+    "52-12-verordnung-digitale-ortseingangstafeln-digortv",
+    "53-1-immobiliengesetz-immog",
+    "53-11-immobilienverordnung-i-immov-i",
+    "53-12-immobilienverordnung-ii-immov-ii",
+    "61-1-schulgesetz-schg",
+    "62-1-sprachforderungsgesetz-sprachg",
+    "63-1-kulturforderungsgesetz-kfg",
+    "63-11-kulturforderungsverordnung-kfv",
+    "64-1-gesundheitsgesetz-gesg",
+    "64-11-gesundheitsverordnung-gesv",
+    "72-1-baugesetz-baug",
+    "72-11-verordnung-zum-baugesetz-bauv",
+    "72-2-ggbg",
+    "72-3-sbauvsq",
+    "73-2-wasserversorgungsgesetz-wvg",
+    "73-21-wasserversorgungsverordnung-wvv",
+    "73-3-abwassergesetz-abwg",
+    "73-31-abwasserverordnung-abwv",
+    "74-1-verkehrsgesetz-vkg",
+    "74-11-verkehrsverordnung-vkv",
+    "74-2-guterstrassenbefahrungsgesetz-gsbg",
+    "74-21-guterstrassenbefahrungsverordnung-gsbv",
+    "75-1-abfallgesetz-abfg",
+    "75-11-abfallverordnung-abfv",
+    "75-2-energiegesetz-energ",
+    "75-21-energieverordnung-enerv"
+   ],
+   "sha256": "c73c6e7a6042537374030cccc87cd942f10f95617b3b398e6cf4ff2cac5e2364"
+  },
+  "41-verordnungen-2.json": {
+   "acts": [
+    "76-1-meliorationsunterhaltsgesetz-melug",
+    "76-11-meliorationsunterhaltsverordnung-meluv",
+    "81-1-marktgesetz-mag",
+    "81-11-marktverordnung-mav",
+    "81-2-ladenoffnungszeitengesetz-log",
+    "81-21-ladenoffnungszeitenverordnung-lov",
+    "82-1-gastwirtschaftsgesetz-gawg",
+    "82-11-gastwirtschaftsverordnung-gawv",
+    "83-1-tourismusgesetz-tg",
+    "83-11-tourismusverordnung-tv",
+    "85-12-verordnung-jagdliche-einrichtungen-jageinv"
+   ],
+   "sha256": "847412c58fed8706f50c62302300d66c1da75974af3b680eb3190942dfb318c0"
+  }
+ },
+ "schema": 1
+}
