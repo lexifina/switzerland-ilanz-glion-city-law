@@ -1,0 +1,11 @@
+{
+  "path": "ch-gr-ilanz-glion",
+  "code": "CH-GR-ILANZ-GLION",
+  "name": "Ilanz/Glion (city)",
+  "level": "municipality",
+  "parent": "ch-gr",
+  "repo": "https://github.com/lexifina/switzerland-ilanz-glion-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (62 acts, 115 versions) from the RIG",
+  "language": "de",
+  "sources": 1
+}

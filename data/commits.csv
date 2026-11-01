@@ -1,0 +1,90 @@
+day,kind,law,acts,files,branch
+2013-05-01,start,crs-beschluss-2013-09-04,14-1-entschadigungsgesetz-entg,15,main
+2014-01-01,start,crs-beschluss-2013-09-22,11-1-gemeindeverfassung,65,main
+2014-01-01,start,crs-beschluss-2013-11-12,13-1-parlamentsgesetz-parlg,38,main
+2014-01-01,start,crs-beschluss-2013-11-12,13-11-parlamentsordnung-parlo,46,main
+2014-01-01,start,crs-beschluss-2013-12-04,42-1-feuerwehrgesetz-fwg,24,main
+2014-01-01,start,crs-beschluss-2013-11-24,51-1-steuergesetz-stg,24,main
+2014-03-01,start,crs-beschluss-2014-02-24,42-11-feuerwehrverordnung-fwv,33,main
+2014-08-01,start,crs-beschluss-2014-04-09,61-1-schulgesetz-schg,26,main
+2014-08-15,start,crs-beschluss-2014-02-19,13-2-organisationsgesetz-ogg,31,main
+2014-08-15,start,crs-beschluss-2014-05-14,52-1-gebuhrengesetz-gebg,20,main
+2014-09-01,start,crs-beschluss-2014-06-11,41-1-polizeigesetz-pg,44,main
+2014-11-01,start,crs-beschluss-2014-10-27,53-11-immobilienverordnung-i-immov-i,18,main
+2014-11-01,start,crs-beschluss-2014-08-27,73-2-wasserversorgungsgesetz-wvg,47,main
+2014-12-01,start,crs-beschluss-2014-11-17,41-12-ordnungsbussenverordnung-obv,6,main
+2014-12-01,start,crs-beschluss-2014-11-17,73-21-wasserversorgungsverordnung-wvv,8,main
+2014-12-15,start,crs-beschluss-2014-10-22,73-3-abwassergesetz-abwg,44,main
+2014-12-15,start,crs-beschluss-2014-11-17,73-31-abwasserverordnung-abwv,7,main
+2015-01-01,start,crs-beschluss-2014-05-14,83-1-tourismusgesetz-tg,45,main
+2015-01-01,start,crs-beschluss-2014-11-03,83-11-tourismusverordnung-tv,18,main
+2015-03-15,start,crs-beschluss-2015-01-21,81-1-marktgesetz-mag,17,main
+2015-03-15,start,crs-beschluss-2015-02-02,81-11-marktverordnung-mav,15,main
+2015-03-15,start,crs-beschluss-2015-01-21,81-2-ladenoffnungszeitengesetz-log,15,main
+2015-03-15,start,crs-beschluss-2015-03-02,81-21-ladenoffnungszeitenverordnung-lov,6,main
+2015-03-15,start,crs-beschluss-2015-01-21,82-1-gastwirtschaftsgesetz-gawg,18,main
+2015-03-15,start,crs-beschluss-2015-03-02,82-11-gastwirtschaftsverordnung-gawv,6,main
+2015-04-01,start,crs-beschluss-2015-03-16,52-11-gebuhrentarifverordnung-gebv,5,main
+2015-06-01,start,crs-beschluss-2015-04-27,13-21-organisationsverordnung,14,main
+2015-08-01,start,crs-beschluss-2015-05-20,12-1-amtssprachengesetz-asg,11,main
+2015-08-01,start,crs-beschluss-2015-05-20,62-1-sprachforderungsgesetz-sprachg,9,main
+2016-01-01,start,crs-beschluss-2015-09-30,33-1-bestattungsgesetz-bestg,25,main
+2016-01-01,start,crs-beschluss-2015-12-14,33-11-bestattungsverordnung-bestv,94,main
+2016-01-01,law,crs,42-1-feuerwehrgesetz-fwg,7,main
+2016-02-01,law,crs,61-1-schulgesetz-schg,3,main
+2016-04-01,law,crs,52-11-gebuhrentarifverordnung-gebv,1,main
+2016-08-01,law,crs,42-11-feuerwehrverordnung-fwv,1,main
+2017-01-01,law,crs,73-2-wasserversorgungsgesetz-wvg 73-3-abwassergesetz-abwg 73-21-wasserversorgungsverordnung-wvv 73-31-abwasserverordnung-abwv 82-11-gastwirtschaftsverordnung-gawv,46,main
+2017-09-26,start,crs-beschluss-2017-05-21,72-3-sbauvsq,16,main
+2018-01-01,start,crs-beschluss-2018-03-07,15-1-einburgerungsgesetz-einbg,12,main
+2018-01-01,law,crs,73-21-wasserversorgungsverordnung-wvv,1,main
+2019-01-01,start,crs-beschluss-2018-10-24,72-2-ggbg,13,main
+2019-02-01,law,crs,82-11-gastwirtschaftsverordnung-gawv,1,main
+2019-04-01,law,crs,13-1-parlamentsgesetz-parlg 13-11-parlamentsordnung-parlo 81-1-marktgesetz-mag 81-11-marktverordnung-mav,5,main
+2019-05-01,law,crs,53-11-immobilienverordnung-i-immov-i,1,main
+2019-10-01,law,crs,13-11-parlamentsordnung-parlo,1,main
+2019-12-01,law,crs,72-2-ggbg,1,main
+2020-01-01,start,crs-beschluss-2019-09-18,75-1-abfallgesetz-abfg,38,main
+2020-01-01,start,crs-beschluss-2019-11-26,75-11-abfallverordnung-abfv,10,main
+2021-01-01,start,crs-beschluss-2020-10-28,53-1-immobiliengesetz-immog,17,main
+2021-01-01,law,crs,51-1-steuergesetz-stg 53-11-immobilienverordnung-i-immov-i,28,main
+2021-05-01,start,crs-beschluss-2021-04-27,52-12-verordnung-digitale-ortseingangstafeln-digortv,8,main
+2021-05-01,law,crs,52-11-gebuhrentarifverordnung-gebv,1,main
+2021-07-01,law,crs,41-1-polizeigesetz-pg 41-12-ordnungsbussenverordnung-obv,2,main
+2021-08-01,law,crs,13-2-organisationsgesetz-ogg 13-21-organisationsverordnung,5,main
+2021-10-12,start,crs-beschluss-2020-02-09,72-1-baugesetz-baug,120,main
+2021-10-12,law,crs,13-2-organisationsgesetz-ogg 41-1-polizeigesetz-pg,3,main
+2022-01-01,start,crs-beschluss-2021-10-27,43-1-bevolkerungsschutzgesetz-bsg,21,main
+2022-01-01,start,crs-beschluss-2021-12-14,43-11-bevolkerungsschutzverordnung-bevsv,14,main
+2022-01-01,start,crs-beschluss-2021-10-26,53-12-immobilienverordnung-ii-immov-ii,12,main
+2022-01-01,start,crs-beschluss-2021-09-01,74-2-guterstrassenbefahrungsgesetz-gsbg,23,main
+2022-01-01,start,crs-beschluss-2021-12-14,74-21-guterstrassenbefahrungsverordnung-gsbv,15,main
+2022-01-01,start,crs-beschluss-2021-06-23,76-1-meliorationsunterhaltsgesetz-melug,41,main
+2022-01-01,start,crs-beschluss-2021-12-14,76-11-meliorationsunterhaltsverordnung-meluv,12,main
+2022-01-01,start,crs-beschluss-2022-02-08,85-12-verordnung-jagdliche-einrichtungen-jageinv,16,main
+2022-01-01,law,crs,13-2-organisationsgesetz-ogg 14-1-entschadigungsgesetz-entg 42-1-feuerwehrgesetz-fwg 42-11-feuerwehrverordnung-fwv 51-1-steuergesetz-stg 53-1-immobiliengesetz-immog 53-11-immobilienverordnung-i-immov-i 75-1-abfallgesetz-abfg,50,main
+2022-09-01,law,crs,52-11-gebuhrentarifverordnung-gebv,1,main
+2022-10-01,start,crs-beschluss-2022-09-27,13-31-verordnung-jugendkommission-jukov,12,main
+2022-11-01,start,crs-beschluss-2022-10-25,72-11-verordnung-zum-baugesetz-bauv,4,main
+2023-01-01,start,crs-beschluss-2022-09-14,63-1-kulturforderungsgesetz-kfg,26,main
+2023-01-01,start,crs-beschluss-2022-10-25,63-11-kulturforderungsverordnung-kfv,15,main
+2023-01-01,start,crs-beschluss-2022-04-06,64-1-gesundheitsgesetz-gesg,20,main
+2023-01-01,start,crs-beschluss-2022-10-25,64-11-gesundheitsverordnung-gesv,14,main
+2023-02-13,law,crs,72-1-baugesetz-baug,5,main
+2023-03-01,start,crs-beschluss-2023-01-31,13-22-compliance-verordnung-cv,19,main
+2024-01-01,start,crs-beschluss-2023-10-24,13-23-bibliotheksverordnung-bibliov,19,main
+2024-01-01,start,crs-beschluss-2024-01-16,32-12-wohnkostenverordnung-wkv,11,main
+2024-01-01,start,crs-beschluss-2024-04-17,74-1-verkehrsgesetz-vkg,33,main
+2024-01-01,law,crs,42-1-feuerwehrgesetz-fwg 42-11-feuerwehrverordnung-fwv 63-11-kulturforderungsverordnung-kfv 74-2-guterstrassenbefahrungsgesetz-gsbg 74-21-guterstrassenbefahrungsverordnung-gsbv 76-11-meliorationsunterhaltsverordnung-meluv,30,main
+2024-07-01,law,crs,64-11-gesundheitsverordnung-gesv,1,main
+2025-01-01,start,crs-beschluss-2024-09-11,75-2-energiegesetz-energ,8,main
+2025-01-01,start,crs-beschluss-2024-10-29,75-21-energieverordnung-enerv,8,main
+2025-01-01,law,crs,14-1-entschadigungsgesetz-entg,1,main
+2025-04-01,law,crs,13-11-parlamentsordnung-parlo,2,main
+2026-01-01,start,crs-beschluss-2025-06-25,21-1-personalgesetz-persg,23,main
+2026-01-01,start,crs-beschluss-2025-08-19,21-12-arbeitszeitverordnung-azv,36,main
+2026-01-01,start,crs-beschluss-2025-10-21,74-11-verkehrsverordnung-vkv,30,main
+2026-01-01,law,crs,63-11-kulturforderungsverordnung-kfv 83-11-tourismusverordnung-tv,2,main
+2026-05-01,law,crs,74-11-verkehrsverordnung-vkv,1,main
+2026-10-01,law,crs,13-31-verordnung-jugendkommission-jukov 53-11-immobilienverordnung-i-immov-i 53-12-immobilienverordnung-ii-immov-ii,25,main
+2027-01-01,law,crs,51-1-steuergesetz-stg,1,zukunft

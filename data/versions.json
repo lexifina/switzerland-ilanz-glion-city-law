@@ -1,0 +1,1191 @@
+{
+ "country": "CH-GR-ILANZ-GLION",
+ "acts": [
+  {
+   "slug": "11-1-gemeindeverfassung",
+   "short": "Gemeindeverfassung",
+   "title": "Verfassung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/11.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 65,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/11.1",
+     "sha256": "535d2f5010a51c0410610058f49e84274e85dd56e315d2bfcd071833c408492a"
+    }
+   ]
+  },
+  {
+   "slug": "12-1-amtssprachengesetz-asg",
+   "short": "Amtssprachengesetz; ASG",
+   "title": "Gesetz über die Amtssprachen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/12.1",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 11,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/12.1",
+     "sha256": "bda13684efd2fd8fcc3368804500ab4b277d9cbd7fcbebfc8b5d92842ce037b8"
+    }
+   ]
+  },
+  {
+   "slug": "13-1-parlamentsgesetz-parlg",
+   "short": "Parlamentsgesetz, ParlG",
+   "title": "Gesetz über das Gemeindeparlament der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 38,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.1/versions/51",
+     "sha256": "c1b6885999462e12e7f98623ec2643b46eb263dc8bc755e78dde1aa875091315"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 38,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.1",
+     "sha256": "fcd45e666026448d5e18fdc3f8d679d4252920386949b6124de726b09b9b3d5a"
+    }
+   ]
+  },
+  {
+   "slug": "13-2-organisationsgesetz-ogg",
+   "short": "Organisationsgesetz, OGG",
+   "title": "Organisationsgesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.2",
+   "versions": [
+    {
+     "from": "2014-08-15",
+     "units": 31,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.2/versions/58",
+     "sha256": "2066a7b46808f53577dedd9e22bd9f11abef749a6068e00aaa62fa6e21c96d77"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 31,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.2/versions/162",
+     "sha256": "c3e39d02e354204f48af6717e1bc789582a9fdbaf0a6e60f61736087d962e1e8"
+    },
+    {
+     "from": "2021-10-12",
+     "units": 31,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.2/versions/174",
+     "sha256": "51a9ff9972e829f3cf24900352e4119f9050da6ae246bedf4ab3ce4f64c486cc"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 32,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.2",
+     "sha256": "0a336bb67677601f1f98cc4482c723ba9969fa756cd36db0eea58783e2764b97"
+    }
+   ]
+  },
+  {
+   "slug": "13-11-parlamentsordnung-parlo",
+   "short": "Parlamentsordnung, ParlO",
+   "title": "Geschäftsordnung des Gemeindeparlaments der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.11",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 46,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.11/versions/202",
+     "sha256": "dc0daa99dde83e8c7d1c423fc5709cfccebd9dd5397ad9f535d73de6b9cddd39"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 46,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.11/versions/203",
+     "sha256": "6820ac4a8c370463b93458040aeeb2f6d880c53b919edfc2a11431e132bdf7af"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 46,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.11/versions/204",
+     "sha256": "6c1389156eb4d74a3a3a3071a4428320235c9cbf89b3d9a10a71b0a722a29b1b"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 46,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.11",
+     "sha256": "08f5e57c33e9393fcd45d3f0a4dc36fb806ff1cbdd247bfeac9cb1c8e1404071"
+    }
+   ]
+  },
+  {
+   "slug": "13-21-organisationsverordnung",
+   "short": "Organisationsverordnung",
+   "title": "Organisationsverordnung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.21",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 14,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.21/versions/60",
+     "sha256": "bd11f762389cf83ff2f65e7cf015ab43836785f8f8f7868c699480bc662f0f83"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 14,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.21",
+     "sha256": "194d639bbf52e72d1b42d98a6b7e4ea4dc20954a720b56d10d2ad9e016f29f67"
+    }
+   ]
+  },
+  {
+   "slug": "13-22-compliance-verordnung-cv",
+   "short": "Compliance Verordnung; CV",
+   "title": "Verordnung zur Vermeidung von Interessenkonflikten und zum Verhaltenskodex der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.22",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 19,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.22",
+     "sha256": "698fcef659b060bbf9d554470b4f0aea7106c007b23874c2b9d07aba692d5c3c"
+    }
+   ]
+  },
+  {
+   "slug": "13-23-bibliotheksverordnung-bibliov",
+   "short": "Bibliotheksverordnung; BiblioV",
+   "title": "Verordnung zur Schul- und Gemeindebibliothek Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.23",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 19,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.23",
+     "sha256": "785d378c0665b4f6d4168c81b9e3181990b00998396cba86bb6edb291b883ae9"
+    }
+   ]
+  },
+  {
+   "slug": "13-31-verordnung-jugendkommission-jukov",
+   "short": "Verordnung Jugendkommission; JuKoV",
+   "title": "Verordnung über die Jugendkommission der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/13.31",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 12,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.31/versions/147",
+     "sha256": "ec0be280625414fc22c6c78bae1d2eeddf390ad145427bc1e4af86589247ff0c"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/13.31",
+     "sha256": "ef0699d0077d3e9ab3d97cfeb9605cd0c8b8ae03c90b8b3d9065c623d681f928"
+    }
+   ]
+  },
+  {
+   "slug": "14-1-entschadigungsgesetz-entg",
+   "short": "Entschädigungsgesetz; EntG",
+   "title": "Gesetz über die Entschädigung von Behörden und Kommissionen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/14.1",
+   "versions": [
+    {
+     "from": "2013-05-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/14.1/versions/198",
+     "sha256": "57f52a7505cd1112641e9aea911f5e59e5b7cb62856a3c356987a36daee165f9"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/14.1/versions/199",
+     "sha256": "936f2bb339833831f6158f1402aa19f51799483d4b28d83fa46c1a343476d849"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/14.1",
+     "sha256": "7d7735726957e2ae84d01326f5df4bcbe1660c7cc35ba44a36cc4fdd175f96ac"
+    }
+   ]
+  },
+  {
+   "slug": "15-1-einburgerungsgesetz-einbg",
+   "short": "Einbürgerungsgesetz; EinbG",
+   "title": "Gesetz über die Einbürgerung in die Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/15.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 12,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/15.1",
+     "sha256": "2da8e1711ba4fbe4c2eb092ce029ebe47dd7f3e82de3d944235890851e4c07c8"
+    }
+   ]
+  },
+  {
+   "slug": "21-1-personalgesetz-persg",
+   "short": "Personalgesetz; PersG",
+   "title": "Personalgesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/21.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 23,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/21.1",
+     "sha256": "ede85f237c60b2a1b39fb838092a48c43c8186b6f70c4e7018a35ae730a6dc8a"
+    }
+   ]
+  },
+  {
+   "slug": "21-12-arbeitszeitverordnung-azv",
+   "short": "Arbeitszeitverordnung; AzV",
+   "title": "Arbeitszeitverordnung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/21.12",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 36,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/21.12",
+     "sha256": "a8ea39a3b5e903eb361827bb5b8a03131b4377a7e804ad392e8f0c59440f8227"
+    }
+   ]
+  },
+  {
+   "slug": "32-12-wohnkostenverordnung-wkv",
+   "short": "Wohnkostenverordnung; WkV",
+   "title": "Verordnung über die Wohnkosten von bedürftigen Personen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/32.12",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/32.12",
+     "sha256": "a216415184da3ee0fec708b8fc21c1665ef80dafad43c3d7579556c3a2f7d783"
+    }
+   ]
+  },
+  {
+   "slug": "33-1-bestattungsgesetz-bestg",
+   "short": "Bestattungsgesetz; BestG",
+   "title": "Gesetz über das Bestattungs- und Friedhofwesen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/33.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/33.1",
+     "sha256": "fb398c1ce8c593fe74625532f0d1b9a8a01cd164fc7cde6ebf3add1091eee09a"
+    }
+   ]
+  },
+  {
+   "slug": "33-11-bestattungsverordnung-bestv",
+   "short": "Bestattungsverordnung; BestV",
+   "title": "Verordnung über das Bestattungs- und Friedhofwesen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/33.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 94,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/33.11",
+     "sha256": "695c84751c319aa85dda643e85dd00d5a4fdbf4a7b3960ce1758cb617f8fd899"
+    }
+   ]
+  },
+  {
+   "slug": "41-1-polizeigesetz-pg",
+   "short": "Polizeigesetz; PG",
+   "title": "Polizeigesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/41.1",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 44,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/41.1/versions/171",
+     "sha256": "df23b3ef86cf2f28bdf0630227f5c98ee7d065ff8884f810b1f4f1082ae1bed4"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 44,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/41.1/versions/172",
+     "sha256": "243a646ac3a236ac4baf10d405c459f54af8ecd59a6bcbc68ab59041dfee5873"
+    },
+    {
+     "from": "2021-10-12",
+     "units": 44,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/41.1",
+     "sha256": "6933a522bc70fd699f200d4507a6d0d9645255cfc2ddc19ad2874cbf4094abb2"
+    }
+   ]
+  },
+  {
+   "slug": "41-12-ordnungsbussenverordnung-obv",
+   "short": "Ordnungsbussenverordnung; ObV",
+   "title": "Verordnung über die Ordnungsbussen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/41.12",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 6,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/41.12/versions/74",
+     "sha256": "638b05437875c41f2e7bbfaa2a256fb82c7427dc22f1d03ec6a17c7ccb18cbc4"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 6,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/41.12",
+     "sha256": "a8c3272aec9e928a7bd8c9032ff81d903c8334bc6674397a7d5c4c16cc000940"
+    }
+   ]
+  },
+  {
+   "slug": "42-1-feuerwehrgesetz-fwg",
+   "short": "Feuerwehrgesetz; FwG",
+   "title": "Feuerwehrgesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/42.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 24,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.1/versions/27",
+     "sha256": "a1470186714abf0e201aae9b3c2601941bdcf69aa31760279c728c9e8f79844a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 24,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.1/versions/30",
+     "sha256": "273da244ccfbe29c62d895c0cfe5363bbcbe8bb92a89549aa93d29489dd41275"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.1/versions/190",
+     "sha256": "3ff458cdc4adbc9d96ed6aeb83e198e29c03a8beb7d65bc9f67d05d89c1ad373"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 24,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.1",
+     "sha256": "2a23c24fc7fbca4249db7ed7acdc98aa987f191a2443955326692188436c52c8"
+    }
+   ]
+  },
+  {
+   "slug": "42-11-feuerwehrverordnung-fwv",
+   "short": "Feuerwehrverordnung; FwV",
+   "title": "Feuerwehrverordnung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/42.11",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 33,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.11/versions/46",
+     "sha256": "d07852ee8292f0f37a89cf61d97b8b2421e460b32be0f397c72ac66c715468c1"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 33,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.11/versions/47",
+     "sha256": "7237d702243fb11f48657802bf1095a3123b5d74f3084966a21bc913c8241f75"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 34,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.11/versions/137",
+     "sha256": "0e053b4329823399e7444701e2adcc48b11bf1152b40c97de0e5ab684df8b15b"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 34,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/42.11",
+     "sha256": "cf7f6a7c745debc5c52013af4f5d9c499b78cfbb4ec404bd6d3c569b87e74de0"
+    }
+   ]
+  },
+  {
+   "slug": "43-1-bevolkerungsschutzgesetz-bsg",
+   "short": "Bevölkerungsschutzgesetz; BsG",
+   "title": "Gesetz über den Bevölkerungsschutz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/43.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 21,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/43.1",
+     "sha256": "ee5e01c83459318d5caa93724b0b986253da63f6cb7ed0282b9457eb73be1652"
+    }
+   ]
+  },
+  {
+   "slug": "43-11-bevolkerungsschutzverordnung-bevsv",
+   "short": "Bevölkerungsschutzverordnung; BevSV",
+   "title": "Verordnung über den Bevölkerungsschutz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/43.11",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 14,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/43.11",
+     "sha256": "37ed4e5699d0d9ace040772da8e958402021bce6497d319d99e3806a5d91dcde"
+    }
+   ]
+  },
+  {
+   "slug": "51-1-steuergesetz-stg",
+   "short": "Steuergesetz; StG",
+   "title": "Steuergesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/51.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 24,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/51.1/versions/61",
+     "sha256": "ec115ee64fe23b7930d5b204711f1af30874ff53c44f5b77770f3a2e520301b8"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 22,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/51.1/versions/102",
+     "sha256": "5598ab7235f79d6721d8dc487dc74c914a052b6c8ec2b410ab646a425ecb5767"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 22,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/51.1",
+     "sha256": "d3fb62fd1817717d49dbf0c81bf6d38bfec8d1e6a91c2b49f1477da91b967056"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 22,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/51.1/versions/215",
+     "sha256": "9d8038f9bce996d2c9dd0bf7199b64d57cb85a78a01f8899dfd5b012cd97b98f"
+    }
+   ]
+  },
+  {
+   "slug": "52-1-gebuhrengesetz-gebg",
+   "short": "Gebührengesetz; GebG",
+   "title": "Gesetz über die allgemeinen Gebühren der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/52.1",
+   "versions": [
+    {
+     "from": "2014-08-15",
+     "units": 20,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/52.1",
+     "sha256": "e29f8033ecdcd638f3eee8d3d5dd9d5b74f6572c5b7434e63b475e51383fc1bb"
+    }
+   ]
+  },
+  {
+   "slug": "52-11-gebuhrentarifverordnung-gebv",
+   "short": "Gebührentarifverordnung; GebV",
+   "title": "Verordnung über die Gebührentarife der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/52.11",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 5,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/52.11/versions/67",
+     "sha256": "ae7111fb5d9b476b9433a530022aab4ca53c8f39ace3e8e8a435adaf731f8f6f"
+    },
+    {
+     "from": "2016-04-01",
+     "units": 5,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/52.11/versions/68",
+     "sha256": "d5ad21db1ee142cbbcddd8e51f13f104a3a26b07de091965bf8e07c6b3b9af6e"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 5,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/52.11/versions/110",
+     "sha256": "769e912147d7acf6162ae24df4552b45fb73b47ff507d67c2c014af5b33bbe92"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 5,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/52.11",
+     "sha256": "2fd33be0b58bc27d3eb3cf003ee8886642d2199c260a307fca36082b85a77be3"
+    }
+   ]
+  },
+  {
+   "slug": "52-12-verordnung-digitale-ortseingangstafeln-digortv",
+   "short": "Verordnung digitale Ortseingangstafeln; DigOrtV",
+   "title": "Verordnung über die Nutzung der digitalen Ortseingangstafeln der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/52.12",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 8,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/52.12",
+     "sha256": "057a4d73c038ab5ad28ba9bd2759e25d1a6cae186fdf2bf1aeea41ff3fba7ace"
+    }
+   ]
+  },
+  {
+   "slug": "53-1-immobiliengesetz-immog",
+   "short": "Immobiliengesetz; ImmoG",
+   "title": "Gesetz über die Entwicklung und die Bewirtschaftung der Immobilien der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/53.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 17,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.1/versions/103",
+     "sha256": "fd27a31eac3c851ab63bad28424e5bd0d136fc71aa1c25e514021f1dc334782d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.1",
+     "sha256": "46f0e9b2f43f3b96bcf90a9389d8d79c95189a741361c43acf1fae87b7e6e38c"
+    }
+   ]
+  },
+  {
+   "slug": "53-11-immobilienverordnung-i-immov-i",
+   "short": "Immobilienverordnung I; ImmoV I",
+   "title": "Verordnung über die Nutzung von Immobilien der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/53.11",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 18,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.11/versions/82",
+     "sha256": "ac00d0b502f90564ae78f82b6b5d9138b2a68f3c1143e8e4e555e405d1f412c0"
+    },
+    {
+     "from": "2019-05-01",
+     "units": 18,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.11/versions/83",
+     "sha256": "641792487962028374b53bd86b1ce82362bc7ffe210e7fe6ccff4fd2da341e8e"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.11/versions/104",
+     "sha256": "9cec433142fa95d7ade38b47f3bc1d5fbde92e49b40d2b7a70877c3e012166b5"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 17,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.11/versions/131",
+     "sha256": "524c601da3e4b8b4fafd498642bb66866b61734853e5791fb1031eed02e4f49a"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.11",
+     "sha256": "c1eec596dddfd34b9d827154d2bcde0d54719105d08cdca6a44e0f94e8097ee4"
+    }
+   ]
+  },
+  {
+   "slug": "53-12-immobilienverordnung-ii-immov-ii",
+   "short": "Immobilienverordnung II; ImmoV II",
+   "title": "Verordnung über die Veräusserung und Vermietung von Immobilien der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/53.12",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.12/versions/120",
+     "sha256": "94081cb89b7b0632f973a8d3a1df0bb1311a06d65182542283032aaad87eddb5"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/53.12",
+     "sha256": "48edf244fae6e4281f4d54c566e581de935b395f315545c20483ff1ff9da2d02"
+    }
+   ]
+  },
+  {
+   "slug": "61-1-schulgesetz-schg",
+   "short": "Schulgesetz; SchG",
+   "title": "Schulgesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/61.1",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 26,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/61.1/versions/75",
+     "sha256": "d7a8b7515e76f0f3c872c60887f8b79c2392fa842d716dbe44deb38dbc72241d"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 26,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/61.1",
+     "sha256": "ca31c79a8f1939f28ab8bb72369db4e8035af3a320bdecf69a093f8e7ffa0477"
+    }
+   ]
+  },
+  {
+   "slug": "62-1-sprachforderungsgesetz-sprachg",
+   "short": "Sprachförderungsgesetz; SprachG",
+   "title": "Gesetz zur Förderung der romanischen Sprache der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/62.1",
+   "versions": [
+    {
+     "from": "2015-08-01",
+     "units": 9,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/62.1",
+     "sha256": "4160215f9113b390e219f0eaef511f1fde3369ba3010937a8d90b55e3506cb87"
+    }
+   ]
+  },
+  {
+   "slug": "63-1-kulturforderungsgesetz-kfg",
+   "short": "Kulturförderungsgesetz; KfG",
+   "title": "Gesetz über die Förderung der Kultur der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/63.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 26,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/63.1",
+     "sha256": "a46bc75404f6493a5ec72ec6c48314ca802909be244ca32861e5dbc7f43ed2fd"
+    }
+   ]
+  },
+  {
+   "slug": "63-11-kulturforderungsverordnung-kfv",
+   "short": "Kulturförderungsverordnung; KfV",
+   "title": "Verordnung über die Förderung der Kultur der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/63.11",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/63.11/versions/154",
+     "sha256": "3890ad92ce98d2897047e9b95e57b93873a63652952ce6d83b4e2b290259db01"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/63.11/versions/179",
+     "sha256": "38e971dfeed83a6561e19ab06d4d52a737573c355451842f933ea541655e3002"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/63.11",
+     "sha256": "06fbd32e980a17b8f0a0d4a065056454dbf0a510414725e71cff0907c333295a"
+    }
+   ]
+  },
+  {
+   "slug": "64-1-gesundheitsgesetz-gesg",
+   "short": "Gesundheitsgesetz; GesG",
+   "title": "Gesetz über die Förderung der Gesundheit, Prävention und Sport der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/64.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 20,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/64.1",
+     "sha256": "f126164e91df57bc1d401506a9a324789a69b8053c17a0b7da5f52ef7de0fef3"
+    }
+   ]
+  },
+  {
+   "slug": "64-11-gesundheitsverordnung-gesv",
+   "short": "Gesundheitsverordnung; GesV",
+   "title": "Verordnung über die Förderung der Gesundheit, Prävention und Sport der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/64.11",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 14,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/64.11/versions/187",
+     "sha256": "363fb5826550e818759b28b6dc7cf1335f8a24bd6b087b1f939f7c9a70a55347"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 14,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/64.11",
+     "sha256": "4750b3f970ef697dc38fc871cc413e6190e94a479719f13d734efced315a0665"
+    }
+   ]
+  },
+  {
+   "slug": "72-1-baugesetz-baug",
+   "short": "Baugesetz; BauG",
+   "title": "Baugesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/72.1",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 120,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/72.1/versions/167",
+     "sha256": "7030d0f382e4e4585adfa8f9531a43a2f065bc69d99a7da7b5345ad47ea8562b"
+    },
+    {
+     "from": "2023-02-13",
+     "units": 123,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/72.1",
+     "sha256": "923242bccee0f9654c046620dd0ec004893fd9a13a69f3a07d1986edb9222b92"
+    }
+   ]
+  },
+  {
+   "slug": "72-2-ggbg",
+   "short": "GGBG",
+   "title": "Gebührengesetz zum Baugesetz",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/72.2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 13,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/72.2/versions/20",
+     "sha256": "3efa73b8e0332392285fdae55ad3124289204da5b0ac8b19b28a71bea5fa1784"
+    },
+    {
+     "from": "2019-12-01",
+     "units": 13,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/72.2",
+     "sha256": "a0cfc48d16a6b3a114b492352d483d58bcff341373ea547ba14ba126458ff2eb"
+    }
+   ]
+  },
+  {
+   "slug": "72-3-sbauvsq",
+   "short": "SBauVSQ",
+   "title": "Sonderbauvorschriften Spitalquartier",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/72.3",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 16,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/72.3",
+     "sha256": "5b8558874507e47fe9168047011339bc0ac4369a75d357a9561cdd6584e5f5f8"
+    }
+   ]
+  },
+  {
+   "slug": "72-11-verordnung-zum-baugesetz-bauv",
+   "short": "Verordnung zum Baugesetz; BauV",
+   "title": "Verordnung zum Baugesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/72.11",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 4,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/72.11",
+     "sha256": "788cdd1e137b7f28dc875d3e4cf46031b6eef6be458792067d425abf644b989b"
+    }
+   ]
+  },
+  {
+   "slug": "73-2-wasserversorgungsgesetz-wvg",
+   "short": "Wasserversorgungsgesetz; WvG",
+   "title": "Gesetz über die Wasserversorgung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/73.2",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 47,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.2/versions/87",
+     "sha256": "19ae92d4fcaf22cf6a71fe93840fe44f640088e473da5a6795e41cc845b531b4"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 49,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.2",
+     "sha256": "08eef658e961609c23e117738b9eb1e92948a935d61deb166d781b77e40d763f"
+    }
+   ]
+  },
+  {
+   "slug": "73-3-abwassergesetz-abwg",
+   "short": "Abwassergesetz; AbwG",
+   "title": "Gesetz über die Abwasserbehandlung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/73.3",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 44,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.3/versions/90",
+     "sha256": "14b1c9996f51ba8e01b500ef454af5d90c9ea0473363177b7facb2a8731828e4"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 46,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.3",
+     "sha256": "43a2b683c88cb2ac9ac9ebe0a0e716421010111e154b12294b93a0472ed1daee"
+    }
+   ]
+  },
+  {
+   "slug": "73-21-wasserversorgungsverordnung-wvv",
+   "short": "Wasserversorgungsverordnung; WvV",
+   "title": "Verordnung über die Wasserversorgung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/73.21",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 8,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.21/versions/94",
+     "sha256": "730cf01b86054d06a8a8ae078849b0f5d8f07a80b6da6595e0664f610456ea16"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.21/versions/97",
+     "sha256": "0be8ff4b831e795a5c282f1e4bb0748951cbd363b8ce038a67fabd3eb1500ca1"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.21",
+     "sha256": "76f0b21685d811b64fb997ba402cec19dfa6a578db1080f216f31f80ef20f249"
+    }
+   ]
+  },
+  {
+   "slug": "73-31-abwasserverordnung-abwv",
+   "short": "Abwasserverordnung; AbwV",
+   "title": "Verordnung über die Abwasserbehandlung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/73.31",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 7,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.31/versions/98",
+     "sha256": "0d16050fefdde6e06248e2add9f8521a48333b02a6b1a3076715296a7ae7039d"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/73.31",
+     "sha256": "07c4b75a68fe4c789baecbd98854f53d50d04e29d19e116e01e6d038c1677a39"
+    }
+   ]
+  },
+  {
+   "slug": "74-1-verkehrsgesetz-vkg",
+   "short": "Verkehrsgesetz; VkG",
+   "title": "Gesetz über die Verkehrsanordnungen und die Parkierung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/74.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 33,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.1",
+     "sha256": "e56b0abfecb3dd44caca06f4ef68568af65565f48c2b21762bb2a3c9dbb01938"
+    }
+   ]
+  },
+  {
+   "slug": "74-2-guterstrassenbefahrungsgesetz-gsbg",
+   "short": "Güterstrassenbefahrungsgesetz; GsBG",
+   "title": "Gesetz über das Befahren von Alp-, Güter- und Waldstrassen der Gemeinde Ilanz/Glion mit Motorfahrzeugen",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/74.2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 23,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.2/versions/124",
+     "sha256": "04026dcb0108d765595d7419d72505604c4fa1367828170f4467c449922aed59"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 23,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.2",
+     "sha256": "aba53fb3f8eee2ea639714ca844920da77c5a6020a493ff9a0ad5d80cdf68d51"
+    }
+   ]
+  },
+  {
+   "slug": "74-11-verkehrsverordnung-vkv",
+   "short": "Verkehrsverordnung; VkV",
+   "title": "Verordnung über die Verkehrsanordnungen und die Parkierung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/74.11",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 30,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.11/versions/219",
+     "sha256": "0513aec58db8d428fdc37806ab40e9af771b39f6cd762ef85545eef2fed6bcae"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 30,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.11",
+     "sha256": "02be20fc7967649d39ffe43bb221e599b70b0d4e7fe290652c0b2bd10f5e8171"
+    }
+   ]
+  },
+  {
+   "slug": "74-21-guterstrassenbefahrungsverordnung-gsbv",
+   "short": "Güterstrassenbefahrungsverordnung; GsBV",
+   "title": "Verordnung über das Befahren von Alp-, Güter- und Waldstrassen der Gemeinde Ilanz/Glion mit Motorfahrzeugen",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/74.21",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.21/versions/126",
+     "sha256": "072a5f72bafab3ac98d536026f11c78918ac1bb48decb5828ec31ef5e821c94d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/74.21",
+     "sha256": "2be1d3b6fe60e37f56a2b7edff3bf510deeb00aa48a46bbc77a52cdc3448cd60"
+    }
+   ]
+  },
+  {
+   "slug": "75-1-abfallgesetz-abfg",
+   "short": "Abfallgesetz; AbfG",
+   "title": "Gesetz über die Abfallentsorgung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/75.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 38,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/75.1/versions/113",
+     "sha256": "f11ab4e438beebd2097ef4d9406bb76b074664b41b2c5018aaa5ee5c629296d9"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 38,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/75.1",
+     "sha256": "769fecd5c3a34d08fbf36ea54e40e69dcc88e804b51a0f1bf667aea37bc95267"
+    }
+   ]
+  },
+  {
+   "slug": "75-2-energiegesetz-energ",
+   "short": "Energiegesetz; EnerG",
+   "title": "Energiegesetz der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/75.2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/75.2",
+     "sha256": "8ee62d880ad54d6bc95b24cd85fe917af1a331af2773cc3ca94e601bae4e94c6"
+    }
+   ]
+  },
+  {
+   "slug": "75-11-abfallverordnung-abfv",
+   "short": "Abfallverordnung; AbfV",
+   "title": "Verordnung über die Abfallentsorgung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/75.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 10,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/75.11",
+     "sha256": "0993028851abd1f75c95feb1d2d64a381a2f80b484fef6a28528b14f5ef5058a"
+    }
+   ]
+  },
+  {
+   "slug": "75-21-energieverordnung-enerv",
+   "short": "Energieverordnung; EnerV",
+   "title": "Energieverordnung der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/75.21",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/75.21",
+     "sha256": "7179d920013966cd2c979cff23ddd630a488cbc3540d1bbcd7bbbe7e25d7d306"
+    }
+   ]
+  },
+  {
+   "slug": "76-1-meliorationsunterhaltsgesetz-melug",
+   "short": "Meliorationsunterhaltsgesetz; MelUG",
+   "title": "Gesetz über den Unterhalt, Betrieb und die Nutzung der Meliorationswerke und weiterer Werke ausserhalb des Baugebiets der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/76.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 41,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/76.1",
+     "sha256": "3c66a20e76f513118fe8345bce452ca025d7eae08ef82072bbf3820c9445b0f8"
+    }
+   ]
+  },
+  {
+   "slug": "76-11-meliorationsunterhaltsverordnung-meluv",
+   "short": "Meliorationsunterhaltsverordnung; MelUV",
+   "title": "Verordnung über den Unterhalt, Betrieb und die Nutzung der Meliorationswerke und weiterer Werke ausserhalb des Baugebiets",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/76.11",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/76.11/versions/123",
+     "sha256": "e45822aa381eaf6f0217908ce3af421fb1a3cd9a3ee51fda27a722a29bfc71d6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 12,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/76.11",
+     "sha256": "3aa2690883c60b3fb322ba6b85a5bfc9b69f183d35b1b820774df2837f23c90e"
+    }
+   ]
+  },
+  {
+   "slug": "81-1-marktgesetz-mag",
+   "short": "Marktgesetz; MaG",
+   "title": "Gesetz über das Marktwesen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/81.1",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 17,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/81.1/versions/38",
+     "sha256": "3c59f3fd27e6c6e2b5df00b6d56400ec9adab84d7205657373deaa1d1dda6c46"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 17,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/81.1",
+     "sha256": "2fe78bc44eab635ad60cc6c5f77005c35ed716948d9bef5771da95ccdfa603d5"
+    }
+   ]
+  },
+  {
+   "slug": "81-2-ladenoffnungszeitengesetz-log",
+   "short": "Ladenöffnungszeitengesetz; LöG",
+   "title": "Gesetz über die Ladenöffnungszeiten der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/81.2",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/81.2",
+     "sha256": "ba6de99d101211acf444d21006edb712e27c4d16af61e8e2aca6eb427aa79eaa"
+    }
+   ]
+  },
+  {
+   "slug": "81-11-marktverordnung-mav",
+   "short": "Marktverordnung; MaV",
+   "title": "Verordnung über das Marktwesen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/81.11",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/81.11/versions/41",
+     "sha256": "f58c4b4732d39f83efc1c1b73fd7c770a985a3a3196a2eaf980b45678548bd6b"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 15,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/81.11",
+     "sha256": "1804788d23f6cad05205c2c3330740645d544b52e7ae2d833a17875fb0705efd"
+    }
+   ]
+  },
+  {
+   "slug": "81-21-ladenoffnungszeitenverordnung-lov",
+   "short": "Ladenöffnungszeitenverordnung; LöV",
+   "title": "Verordnung über die Ladenöffnungszeiten der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/81.21",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 6,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/81.21",
+     "sha256": "bdac9ef15c2a93a21e1642afbe185bdfc3407421a80ba1c4aafbc425946d8bae"
+    }
+   ]
+  },
+  {
+   "slug": "82-1-gastwirtschaftsgesetz-gawg",
+   "short": "Gastwirtschaftsgesetz; GawG",
+   "title": "Gesetz über die Gastwirtschaften der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/82.1",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 18,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/82.1",
+     "sha256": "94ec69b7864d2352e1c808323b2bd46992b89611bb1fd96bd365a08a33d2c8af"
+    }
+   ]
+  },
+  {
+   "slug": "82-11-gastwirtschaftsverordnung-gawv",
+   "short": "Gastwirtschaftsverordnung; GawV",
+   "title": "Verordnung über die Gastwirtschaften der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/82.11",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 6,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/82.11/versions/34",
+     "sha256": "cf1cc2e9d6886302d82e7680dec6a5f91540d96b2b46ffd384a7e0972842a868"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/82.11/versions/35",
+     "sha256": "d75a3d6f3cc4739ce9314661537a7459b141b5ceeb1d51a1127e17f0fa1112f6"
+    },
+    {
+     "from": "2019-02-01",
+     "units": 6,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/82.11",
+     "sha256": "22326ae23f60a5788d4eba1a2bd77544af1227838616bce02d0f28689113c699"
+    }
+   ]
+  },
+  {
+   "slug": "83-1-tourismusgesetz-tg",
+   "short": "Tourismusgesetz; TG",
+   "title": "Gesetz über Gäste- und Tourismustaxen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/83.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 45,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/83.1",
+     "sha256": "3f9ae691d83ac00f35cdc20dbe2621cc32503656e574aec8b825dc69bd0bd376"
+    }
+   ]
+  },
+  {
+   "slug": "83-11-tourismusverordnung-tv",
+   "short": "Tourismusverordnung; TV",
+   "title": "Verordnung über Gäste- und Tourismustaxen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/83.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 18,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/83.11/versions/86",
+     "sha256": "c7b80cd5a7b86f18554bbbfc2316f0aab21ef436301c1345a360705eb47020ef"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/83.11",
+     "sha256": "403a7a221b7b5f8a0d3697aa918eb6cf74e1137279050faed81e50256cbcb71b"
+    }
+   ]
+  },
+  {
+   "slug": "85-12-verordnung-jagdliche-einrichtungen-jageinv",
+   "short": "Verordnung jagdliche Einrichtungen; JagEinV",
+   "title": "Verordnung über die Erstellung von jagdlichen Einrichtungen der Gemeinde Ilanz/Glion",
+   "url": "https://ilanz-glion.tlex.ch/app/de/texts_of_law/85.12",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 16,
+     "source_url": "https://ilanz-glion.tlex.ch/api/de/texts_of_law/85.12",
+     "sha256": "4367f5a626ec42b16c0cbe70d11fa95675279423c66d69d9af68ff8a37c467b4"
+    }
+   ]
+  }
+ ]
+}
