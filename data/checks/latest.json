@@ -1,0 +1,75 @@
+{
+ "generated": "2026-11-24T12:08:50Z",
+ "latest": {
+  "lexwork-ilanz-glion-city|switzerland/graubunden/ilanz-glion/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
+   "census": {
+    "checked": 9,
+    "current": 62,
+    "gone": 0,
+    "held": 62,
+    "not_at_source": 0,
+    "out_of_scope": 0,
+    "pending": 0,
+    "repo": 62,
+    "source_in_scope": 62
+   },
+   "check_id": "ch-lexwork-ilanz-glion-city-20261124T120803Z",
+   "commits": null,
+   "corpus": "switzerland/graubunden/ilanz-glion/acts",
+   "error": null,
+   "finished": "2026-11-24T12:08:49Z",
+   "flags": [],
+   "gap": 0,
+   "note": "ilanz-glion.tlex.ch: index of 62 acts (62 in force); held 62; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 26,
+   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "62 entries, 62 in force (ilanz-glion.tlex.ch)",
+   "source": "lexwork-ilanz-glion-city",
+   "started": "2026-11-24T12:08:03Z",
+   "unexplained": 0,
+   "update": {
+    "left_for_next_check": 0,
+    "letters_check_dropped": {},
+    "new": 0,
+    "nothing_new": 0,
+    "parts": [],
+    "pdf_only": 0,
+    "re_read": 0,
+    "unreadable": 0
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [],
+    "held": 62,
+    "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ilanz-glion.tlex.ch (the act document and each version by id), parsed by the builder (ch_cantons.parse_act), and compared version by version, letters and digits of every unit, with the corpus this repository is built from; the corpus's newest version rendered by the builder (gitlaw_common) and compared with the files at the tip of main. A difference is re-read and corrected by the next check's update (Kind: correction)",
+    "ok": true,
+    "swept": 9,
+    "versions_checked": 18,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
