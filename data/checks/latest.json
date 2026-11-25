@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:08:50Z",
+ "generated": "2026-11-25T08:27:26Z",
  "latest": {
   "lexwork-ilanz-glion-city|switzerland/graubunden/ilanz-glion/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 62,
     "source_in_scope": 62
    },
-   "check_id": "ch-lexwork-ilanz-glion-city-20261124T120803Z",
+   "check_id": "ch-lexwork-ilanz-glion-city-20261125T070239Z",
    "commits": null,
    "corpus": "switzerland/graubunden/ilanz-glion/acts",
    "error": null,
-   "finished": "2026-11-24T12:08:49Z",
+   "finished": "2026-11-25T07:03:06Z",
    "flags": [],
-   "gap": 0,
+   "gap": 1,
    "note": "ilanz-glion.tlex.ch: index of 62 acts (62 in force); held 62; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -37,8 +37,8 @@
     "changed": [],
     "removed": []
    },
-   "requests": 26,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 23,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -47,7 +47,7 @@
    },
    "snapshot": "62 entries, 62 in force (ilanz-glion.tlex.ch)",
    "source": "lexwork-ilanz-glion-city",
-   "started": "2026-11-24T12:08:03Z",
+   "started": "2026-11-25T07:02:39Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -63,10 +63,12 @@
     "cycle_days": 7,
     "examples": [],
     "held": 62,
-    "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ilanz-glion.tlex.ch (the act document and each version by id), parsed by the builder (ch_cantons.parse_act), and compared version by version, letters and digits of every unit, with the corpus this repository is built from; the corpus's newest version rendered by the builder (gitlaw_common) and compared with the files at the tip of main. A difference is re-read and corrected by the next check's update (Kind: correction)",
+    "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ilanz-glion.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
     "ok": true,
     "swept": 9,
-    "versions_checked": 18,
+    "versions_checked": 14,
     "versions_differ": 0
    }
   }
