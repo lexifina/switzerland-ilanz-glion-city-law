@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Ilanz Glion: systematic collection (ilanz-glion.tlex.ch) · `switzerland/graubunden/ilanz-glion/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 07:03 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:31 UTC**.
 - Acts held here: 62; current at the source: 62; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 9 of the 62 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 1 (in force later: 1); with no reason: 0.

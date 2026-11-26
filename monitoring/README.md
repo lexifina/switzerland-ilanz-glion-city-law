@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Ilanz Glion: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-25 07:03 UTC, Ilanz Glion: Systematische Sammlung (ilanz-glion.tlex.ch): 23 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 1 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-26 06:31 UTC, Ilanz Glion: Systematische Sammlung (ilanz-glion.tlex.ch): 31 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 1 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Ilanz Glion: Systematische Sammlung (ilanz-glion.tlex.ch)](https://ilanz-glion.tlex.ch/) | `<act>/` | täglich | 2026-11-25 07:03 UTC | keine Änderung | beobachtet |
+| [Ilanz Glion: Systematische Sammlung (ilanz-glion.tlex.ch)](https://ilanz-glion.tlex.ch/) | `<act>/` | täglich | 2026-11-26 06:31 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 06:31](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261126t063100z) | lexwork-ilanz-glion-city | 31 | 0 | 0 | 0 | 1 (0) | keine Änderung | — |
 | [2026-11-25 07:02](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261125t070239z) | lexwork-ilanz-glion-city | 23 | 0 | 0 | 0 | 1 (0) | keine Änderung | — |
 | [2026-11-24 12:08](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261124t120803z) | lexwork-ilanz-glion-city | 26 | 0 | 0 | 0 | 0 (0) | keine Änderung | — |
 
