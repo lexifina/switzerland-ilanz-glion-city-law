@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Ilanz Glion only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 06:31 UTC, Ilanz Glion: systematic collection (ilanz-glion.tlex.ch): 31 addresses read; 0 added, 0 changed, 0 removed; no change; 1 not published, 0 of them with no reason.
+**Last check:** 2026-11-27 06:28 UTC, Ilanz Glion: systematic collection (ilanz-glion.tlex.ch): 27 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Ilanz Glion: systematic collection (ilanz-glion.tlex.ch)](https://ilanz-glion.tlex.ch/) | `<act>/` | daily | 2026-11-26 06:31 UTC | no change | watched |
+| [Ilanz Glion: systematic collection (ilanz-glion.tlex.ch)](https://ilanz-glion.tlex.ch/) | `<act>/` | daily | 2026-11-27 06:28 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 06:28](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261127t062802z) | lexwork-ilanz-glion-city | 27 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 06:31](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261126t063100z) | lexwork-ilanz-glion-city | 31 | 0 | 0 | 0 | 1 (0) | no change | — |
 | [2026-11-25 07:02](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261125t070239z) | lexwork-ilanz-glion-city | 23 | 0 | 0 | 0 | 1 (0) | no change | — |
 | [2026-11-24 12:08](checks/2026-11.md#ch-lexwork-ilanz-glion-city-20261124t120803z) | lexwork-ilanz-glion-city | 26 | 0 | 0 | 0 | 0 (0) | no change | — |
