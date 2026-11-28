@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:12:52Z",
+ "generated": "2026-11-28T08:35:15Z",
  "latest": {
   "lexwork-ilanz-glion-city|switzerland/graubunden/ilanz-glion/acts": {
    "attempt": 1,
@@ -23,12 +23,17 @@
     "repo": 62,
     "source_in_scope": 62
    },
-   "check_id": "ch-lexwork-ilanz-glion-city-20261127T062802Z",
+   "check_id": "ch-lexwork-ilanz-glion-city-20261128T061909Z",
    "commits": null,
    "corpus": "switzerland/graubunden/ilanz-glion/acts",
    "error": null,
-   "finished": "2026-11-27T06:28:33Z",
-   "flags": [],
+   "finished": "2026-11-28T06:19:39Z",
+   "flags": [
+    {
+     "detail": "1 of 16 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
    "gap": 0,
    "note": "ilanz-glion.tlex.ch: index of 62 acts (62 in force); held 62; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
@@ -47,7 +52,7 @@
    },
    "snapshot": "62 entries, 62 in force (ilanz-glion.tlex.ch)",
    "source": "lexwork-ilanz-glion-city",
-   "started": "2026-11-27T06:28:02Z",
+   "started": "2026-11-28T06:19:09Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -61,15 +66,17 @@
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [],
+    "examples": [
+     "73.21 (73-21-wasserversorgungsverordnung-wvv): 2017-01-01"
+    ],
     "held": 62,
     "method": "each act compared this check (9 of 62: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ilanz-glion.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
-    "ok": true,
+    "ok": false,
     "swept": 9,
-    "versions_checked": 19,
-    "versions_differ": 0
+    "versions_checked": 16,
+    "versions_differ": 1
    }
   }
  },
